@@ -9,7 +9,7 @@ AI &amp; Machine learning
 
 Install python: https://www.python.org/downloads/  
 
-Check if python is installed:  
+Check (in powershell) if python is installed:  
 ```powershell
 python --version
 ```  
