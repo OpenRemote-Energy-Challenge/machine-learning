@@ -25,3 +25,9 @@ Install matplotlib library:
 ```powershell
 python -m pip install matplotlib
 ```  
+
+## Documentation  
+https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/simple_plot.html#sphx-glr-gallery-lines-bars-and-markers-simple-plot-py  
+https://swcarpentry.github.io/python-novice-gapminder/09-plotting/  
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html  
+https://matplotlib.org/stable/gallery/index.html#event-handling  
