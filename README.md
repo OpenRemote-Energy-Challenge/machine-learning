@@ -17,7 +17,7 @@ Check (in powershell) if python is installed:
 ```powershell
 python --version
 ```  
-Install Anaconda *(Not necessary, but needed for jupyter notebook)*  
+Install Anaconda *(This includes scikit-learn, numpy & jupyter notebook)* 
 ```
 https://www.anaconda.com/products/individual#windows
 ```  
@@ -33,7 +33,6 @@ Install matplotlib library:
 ```powershell
 python -m pip install matplotlib
 ```  
-
 ## Documentation  
 https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/simple_plot.html#sphx-glr-gallery-lines-bars-and-markers-simple-plot-py  
 https://swcarpentry.github.io/python-novice-gapminder/09-plotting/  
