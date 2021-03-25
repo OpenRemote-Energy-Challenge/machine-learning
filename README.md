@@ -34,7 +34,7 @@ python -m pip install matplotlib
 ```  
 Install standalone version of scikit-learn:
 ```powershell
-pip install -U scikit-learn
+pip install scikit-learn
 ```  
 ## Documentation  
 https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/simple_plot.html#sphx-glr-gallery-lines-bars-and-markers-simple-plot-py  
