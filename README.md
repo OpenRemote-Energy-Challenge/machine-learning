@@ -17,7 +17,7 @@ Check (in powershell) if python is installed:
 ```powershell
 python --version
 ```  
-Install Anaconda *Not necessary*  
+Install Anaconda *(Not necessary, but needed for jupyter notebook)*  
 ```
 https://www.anaconda.com/products/individual#windows
 ```  
