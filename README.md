@@ -32,6 +32,10 @@ Install matplotlib library:
 ```powershell
 python -m pip install matplotlib
 ```  
+Install standalone version of scikit-learn:
+```powershell
+pip install -U scikit-learn
+```  
 ## Documentation  
 https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/simple_plot.html#sphx-glr-gallery-lines-bars-and-markers-simple-plot-py  
 https://swcarpentry.github.io/python-novice-gapminder/09-plotting/  
