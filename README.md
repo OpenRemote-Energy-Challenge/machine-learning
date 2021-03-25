@@ -17,11 +17,10 @@ Check (in powershell) if python is installed:
 ```powershell
 python --version
 ```  
-Install Anaconda *(This includes scikit-learn, numpy & jupyter notebook)* 
-```
-https://www.anaconda.com/products/individual#windows
-```  
-Install panda data library:  
+Install **Anaconda** [Here](https://www.anaconda.com/products/individual#windows)  
+*(This includes scikit-learn, numpy & jupyter notebook)*  
+   
+Install **pandas** data library:  
 ```powershell
 pip install pandas
 ```  
