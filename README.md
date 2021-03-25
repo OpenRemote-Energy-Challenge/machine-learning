@@ -44,3 +44,4 @@ https://matplotlib.org/stable/gallery/index.html#event-handling
 https://scikit-learn.org/stable/  
 https://numpy.org/
 https://www.anaconda.com/
+https://realpython.com/python-data-cleaning-numpy-pandas/
