@@ -39,8 +39,10 @@ pip install scikit-learn
 ## ToDo
 - [X] Cleaning data (function)
 - [X] Cleaning dataframe headers
-- [ ] Learning algorithm based on solar data
+- [X] Learning algorithm based on solar data
+- [ ] Algorithm can predict based on solar data
 - [ ] Learning algorithm based on solar data + weather data
+- [ ] Algorithm can predict based on solar data + weather data
 ### Optional ToDo
 - [ ] Split a column based on its contents
 - [ ] Filter specific columns based on their names
