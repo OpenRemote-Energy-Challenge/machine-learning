@@ -32,9 +32,13 @@ Install matplotlib library:
 ```powershell
 python -m pip install matplotlib
 ```  
-Install standalone version of scikit-learn:
+Install standalone version of scikit-learn:  
 ```powershell
 pip install scikit-learn
+```  
+Install HTTP request library for python  
+```powershell
+pip install requests
 ```  
 ## ToDo
 - [X] Cleaning data (function)
