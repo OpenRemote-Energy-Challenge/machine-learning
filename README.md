@@ -36,7 +36,7 @@ Install standalone version of scikit-learn:
 ```powershell
 pip install scikit-learn
 ```  
-##ToDo
+## ToDo
 - [X] Cleaning data (function)
 - [X] Cleaning dataframe headers
 - [ ] Learning algorithm based on solar data
