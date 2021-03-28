@@ -1,7 +1,7 @@
 import requests
 
 API_KEY = input("API-key: ")
-API_URL = "https://api.solcast.com.au/weather_sites/b185-4967-4cd7-c7b7/estimated_actuals?format=json&api_key=" + API_KEY
+API_URL = "https://api.solcast.com.au/weather_sites/b185-4967-4cd7-c7b7/forecasts?format=json&api_key=" + API_KEY
 
 try:
     resp = requests.get(API_URL)
