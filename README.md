@@ -36,6 +36,19 @@ Install standalone version of scikit-learn:
 ```powershell
 pip install scikit-learn
 ```  
+## ToDo
+- [X] Cleaning data (function)
+- [X] Cleaning dataframe headers
+- [ ] Learning algorithm based on solar data
+- [ ] Learning algorithm based on solar data + weather data
+### Optional ToDo
+- [ ] Split a column based on its contents
+- [ ] Filter specific columns based on their names
+- [ ] Calculations with dates
+- [ ] Calculate the number of weeks/months/years between dates
+- [ ] Edit dataset (?)
+
+
 ## Documentation  
 https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/simple_plot.html#sphx-glr-gallery-lines-bars-and-markers-simple-plot-py  
 https://swcarpentry.github.io/python-novice-gapminder/09-plotting/  
@@ -46,3 +59,4 @@ https://numpy.org/
 https://www.anaconda.com/
 https://realpython.com/python-data-cleaning-numpy-pandas/
 https://scikit-learn.org/stable/modules/tree.html
+https://stackoverflow.com/questions/38108832/passing-categorical-data-to-sklearn-decision-tree
