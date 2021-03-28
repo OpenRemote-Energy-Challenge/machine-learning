@@ -59,3 +59,4 @@ https://numpy.org/
 https://www.anaconda.com/
 https://realpython.com/python-data-cleaning-numpy-pandas/
 https://scikit-learn.org/stable/modules/tree.html
+https://stackoverflow.com/questions/38108832/passing-categorical-data-to-sklearn-decision-tree
