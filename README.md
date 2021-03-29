@@ -45,6 +45,7 @@ pip install requests
 - [X] Cleaning dataframe headers
 - [X] Learning algorithm based on solar data
 - [ ] Algorithm can predict based on solar data
+- [X] Can make HTTP requests to weather API
 - [ ] Learning algorithm based on solar data + weather data
 - [ ] Algorithm can predict based on solar data + weather data
 ### Optional ToDo
