@@ -17,7 +17,6 @@ if __name__ == "__main__":
     solar_data['time'] = [datetime.split(' ')[1].strip() for datetime in solar_data['timestamp']]
 
     totalPower = solar_data.loc[solar_data['attribute_name'] == 'totalPower'].sort_values(by=['date', 'time'], ascending=True)
-    #totalEnergy = solar_data.loc[solar_data['attribute_name'] == 'totalEnergy'].sort_values(by=['date', 'time'], ascending=True)
     totalPower.drop(columns=['name', 'attribute_name', 'timestamp'], axis=1, inplace=True)
 
     le = preprocessing.LabelEncoder()
