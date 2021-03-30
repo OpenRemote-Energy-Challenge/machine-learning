@@ -11,7 +11,7 @@ AI &amp; Machine learning
 ## Requirements
 *Here you will find all the information you need to get started with our AI / Machine learning*  
 
-Install **python** [here](https://www.anaconda.com/products/individual#windows)    
+Install **python** [here](https://www.python.org/downloads/)    
 
 Check (in powershell) if python is installed:  
 ```powershell
