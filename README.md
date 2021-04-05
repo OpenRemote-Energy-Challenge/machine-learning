@@ -50,6 +50,7 @@ pip install requests
 - [ ] Algorithm can predict based on solar data + weather data
 ### Optional ToDo
 - [ ] Split a column based on its contents
+- [ ] Implementation of neural network
 - [ ] Filter specific columns based on their names
 - [ ] Calculations with dates
 - [ ] Calculate the number of weeks/months/years between dates
