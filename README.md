@@ -8,6 +8,7 @@ AI &amp; Machine learning
 - **Matplotlib** (Library for creating static, animated, and interactive visualizations in Python)
 - **Numpy** (multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays)
 - **Scikit-learn** (machine learning library)
+- **TensorFlow** (neural network library)
 ## Requirements
 *Here you will find all the information you need to get started with our AI / Machine learning*  
 
@@ -40,6 +41,10 @@ Install HTTP request library for python
 ```powershell
 pip install requests
 ```  
+Install Tensorflow
+```powershell
+pip install tensorflow
+```  
 ## ToDo
 - [X] Cleaning data (function)
 - [X] Cleaning dataframe headers
@@ -50,6 +55,7 @@ pip install requests
 - [ ] Algorithm can predict based on solar data + weather data
 ### Optional ToDo
 - [ ] Split a column based on its contents
+- [ ] Implementation of neural network
 - [ ] Filter specific columns based on their names
 - [ ] Calculations with dates
 - [ ] Calculate the number of weeks/months/years between dates
