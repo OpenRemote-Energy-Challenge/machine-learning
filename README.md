@@ -46,7 +46,7 @@ Install Tensorflow
 pip install tensorflow
 ```  
 ## ToDo
-- [X] Cleaning data (function)
+- [ ] Cleaning data 
 - [X] Cleaning dataframe headers
 - [X] Learning algorithm based on solar data
 - [ ] Algorithm can predict based on solar data
