@@ -68,9 +68,9 @@ https://swcarpentry.github.io/python-novice-gapminder/09-plotting/
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html  
 https://matplotlib.org/stable/gallery/index.html#event-handling  
 https://scikit-learn.org/stable/  
-https://numpy.org/
-https://www.anaconda.com/
-https://realpython.com/python-data-cleaning-numpy-pandas/
-https://scikit-learn.org/stable/modules/tree.html
-https://stackoverflow.com/questions/38108832/passing-categorical-data-to-sklearn-decision-tree
-https://solcast.com/solar-forecasting/how-solar-power-forecasting-works-introduction-basics-FAQ-with-video/
+https://numpy.org/  
+https://www.anaconda.com/  
+https://realpython.com/python-data-cleaning-numpy-pandas/  
+https://scikit-learn.org/stable/modules/tree.html  
+https://stackoverflow.com/questions/38108832/passing-categorical-data-to-sklearn-decision-tree  
+https://solcast.com/solar-forecasting/how-solar-power-forecasting-works-introduction-basics-FAQ-with-video/  
