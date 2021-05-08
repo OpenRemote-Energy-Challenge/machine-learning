@@ -42,20 +42,11 @@ Install HTTP request library for python
 pip install requests
 ```  
 ## ToDo
-- [ ] Cleaning data 
+- [X] Cleaning data 
 - [X] Cleaning dataframe headers
 - [X] Learning algorithm based on solar data
-- [ ] Algorithm can predict based on solar data
-- [X] Can make HTTP requests to SolCast API
-- [ ] Learning algorithm based on solar data + weather data
-- [ ] Algorithm can predict based on solar data + weather data
-### Optional ToDo
-- [ ] Split a column based on its contents
-- [ ] Implementation of neural network
-- [ ] Filter specific columns based on their names
-- [ ] Calculations with dates
-- [ ] Calculate the number of weeks/months/years between dates
-- [ ] Edit dataset (?)
+- [X] Algorithm can predict based on solar data
+- [X] Can make HTTP requests to OpenUV API
 
 
 ## Documentation  
