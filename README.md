@@ -41,10 +41,6 @@ Install HTTP request library for python
 ```powershell
 pip install requests
 ```  
-Install Tensorflow
-```powershell
-pip install tensorflow
-```  
 ## ToDo
 - [ ] Cleaning data 
 - [X] Cleaning dataframe headers
